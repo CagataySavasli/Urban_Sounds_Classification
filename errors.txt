@@ -1,0 +1,236 @@
+1 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+2 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+3 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+4 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+5 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+6 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+7 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+8 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+9 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+10 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+11 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+12 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+13 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+14 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+15 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+16 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+17 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+18 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+19 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+20 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+21 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+22 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+23 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+24 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+25 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+26 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+27 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+28 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+29 | OpenCV(4.5.5) :-1: error: (-5:Bad argument) in function 'resize'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+1 | 'QuadMesh' object has no attribute 'dtype'
+2 | 'QuadMesh' object has no attribute 'dtype'
+3 | 'QuadMesh' object has no attribute 'dtype'
+4 | 'QuadMesh' object has no attribute 'dtype'
+5 | 'QuadMesh' object has no attribute 'dtype'
+6 | 'QuadMesh' object has no attribute 'dtype'
+7 | 'QuadMesh' object has no attribute 'dtype'
+8 | 'QuadMesh' object has no attribute 'dtype'
+9 | 'QuadMesh' object has no attribute 'dtype'
+10 | 'QuadMesh' object has no attribute 'dtype'
+11 | 'QuadMesh' object has no attribute 'dtype'
+12 | 'QuadMesh' object has no attribute 'dtype'
+13 | 'QuadMesh' object has no attribute 'dtype'
+14 | 'QuadMesh' object has no attribute 'dtype'
+15 | 'QuadMesh' object has no attribute 'dtype'
+16 | 'QuadMesh' object has no attribute 'dtype'
+17 | 'QuadMesh' object has no attribute 'dtype'
+18 | 'QuadMesh' object has no attribute 'dtype'
+19 | 'QuadMesh' object has no attribute 'dtype'
+20 | 'QuadMesh' object has no attribute 'dtype'
+21 | 'QuadMesh' object has no attribute 'dtype'
+22 | 'QuadMesh' object has no attribute 'dtype'
+23 | 'QuadMesh' object has no attribute 'dtype'
+24 | 'QuadMesh' object has no attribute 'dtype'
+25 | 'QuadMesh' object has no attribute 'dtype'
+26 | 'QuadMesh' object has no attribute 'dtype'
+27 | 'QuadMesh' object has no attribute 'dtype'
+28 | 'QuadMesh' object has no attribute 'dtype'
+29 | 'QuadMesh' object has no attribute 'dtype'
+30 | 'QuadMesh' object has no attribute 'dtype'
+1 | savefig() missing 1 required positional argument: 'fname'
+2 | savefig() missing 1 required positional argument: 'fname'
+3 | savefig() missing 1 required positional argument: 'fname'
+4 | savefig() missing 1 required positional argument: 'fname'
+5 | savefig() missing 1 required positional argument: 'fname'
+6 | savefig() missing 1 required positional argument: 'fname'
+7 | savefig() missing 1 required positional argument: 'fname'
+8 | savefig() missing 1 required positional argument: 'fname'
+9 | savefig() missing 1 required positional argument: 'fname'
+10 | savefig() missing 1 required positional argument: 'fname'
+11 | savefig() missing 1 required positional argument: 'fname'
+12 | savefig() missing 1 required positional argument: 'fname'
+13 | savefig() missing 1 required positional argument: 'fname'
+14 | savefig() missing 1 required positional argument: 'fname'
+15 | savefig() missing 1 required positional argument: 'fname'
+16 | savefig() missing 1 required positional argument: 'fname'
+17 | savefig() missing 1 required positional argument: 'fname'
+18 | savefig() missing 1 required positional argument: 'fname'
+19 | savefig() missing 1 required positional argument: 'fname'
+20 | savefig() missing 1 required positional argument: 'fname'
+21 | savefig() missing 1 required positional argument: 'fname'
+22 | savefig() missing 1 required positional argument: 'fname'
+23 | savefig() missing 1 required positional argument: 'fname'
+24 | savefig() missing 1 required positional argument: 'fname'
+25 | savefig() missing 1 required positional argument: 'fname'
+26 | savefig() missing 1 required positional argument: 'fname'
+27 | savefig() missing 1 required positional argument: 'fname'
+28 | savefig() missing 1 required positional argument: 'fname'
+29 | savefig() missing 1 required positional argument: 'fname'
+30 | savefig() missing 1 required positional argument: 'fname'
+1 | savefig() takes 2 positional arguments but 3 were given
+2 | savefig() takes 2 positional arguments but 3 were given
+3 | savefig() takes 2 positional arguments but 3 were given
+4 | savefig() takes 2 positional arguments but 3 were given
+5 | savefig() takes 2 positional arguments but 3 were given
+6 | savefig() takes 2 positional arguments but 3 were given
+7 | savefig() takes 2 positional arguments but 3 were given
+8 | savefig() takes 2 positional arguments but 3 were given
+9 | savefig() takes 2 positional arguments but 3 were given
+10 | savefig() takes 2 positional arguments but 3 were given
+11 | savefig() takes 2 positional arguments but 3 were given
+12 | savefig() takes 2 positional arguments but 3 were given
+13 | savefig() takes 2 positional arguments but 3 were given
+14 | savefig() takes 2 positional arguments but 3 were given
+15 | savefig() takes 2 positional arguments but 3 were given
+16 | savefig() takes 2 positional arguments but 3 were given
+17 | savefig() takes 2 positional arguments but 3 were given
+18 | savefig() takes 2 positional arguments but 3 were given
+19 | savefig() takes 2 positional arguments but 3 were given
+20 | savefig() takes 2 positional arguments but 3 were given
+21 | savefig() takes 2 positional arguments but 3 were given
+22 | savefig() takes 2 positional arguments but 3 were given
+23 | savefig() takes 2 positional arguments but 3 were given
+24 | savefig() takes 2 positional arguments but 3 were given
+25 | savefig() takes 2 positional arguments but 3 were given
+26 | savefig() takes 2 positional arguments but 3 were given
+27 | savefig() takes 2 positional arguments but 3 were given
+28 | savefig() takes 2 positional arguments but 3 were given
+29 | savefig() takes 2 positional arguments but 3 were given
+30 | savefig() takes 2 positional arguments but 3 were given
+*********************************************************************************************************************************************************************************
